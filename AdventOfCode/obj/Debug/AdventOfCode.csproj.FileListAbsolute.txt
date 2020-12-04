@@ -1,0 +1,7 @@
+C:\Users\macmu\source\repos\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.csproj.CoreCompileInputs.cache
+C:\Users\macmu\source\repos\AdventOfCode\AdventOfCode\bin\Debug\AdventOfCode.exe
+C:\Users\macmu\source\repos\AdventOfCode\AdventOfCode\bin\Debug\AdventOfCode.pdb
+C:\Users\macmu\source\repos\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.exe
+C:\Users\macmu\source\repos\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.pdb
+C:\Users\macmu\source\repos\AdventOfCode\AdventOfCode\bin\Debug\Day4\Day4Input.txt
+C:\Users\macmu\source\repos\AdventOfCode\AdventOfCode\obj\Debug\AdventOfCode.csprojAssemblyReference.cache
